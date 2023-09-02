@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-02T15:46:16 IST" name="Default suite" finished-at="2023-09-02T15:56:56 IST" duration-ms="640039">
+    <groups>
+    </groups>
+    <test started-at="2023-09-02T15:46:16 IST" name="Default test" finished-at="2023-09-02T15:56:56 IST" duration-ms="640039">
+      <class name="testCase.TC01">
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:46:16 IST" name="BeforeMethod" finished-at="2023-09-02T15:49:26 IST" duration-ms="189935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyRegistration()[pri:1, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:49:26 IST" name="verifyRegistration" finished-at="2023-09-02T15:50:01 IST" duration-ms="34848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistration -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:50:01 IST" name="AfterMethod" finished-at="2023-09-02T15:50:10 IST" duration-ms="9509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:50:11 IST" name="BeforeMethod" finished-at="2023-09-02T15:51:18 IST" duration-ms="67396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="checkLogin()[pri:2, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:51:18 IST" name="checkLogin" finished-at="2023-09-02T15:51:23 IST" duration-ms="5536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:51:23 IST" name="AfterMethod" finished-at="2023-09-02T15:51:33 IST" duration-ms="10005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:51:33 IST" name="BeforeMethod" finished-at="2023-09-02T15:52:52 IST" duration-ms="78489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyGetWindowhandle()[pri:3, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:52:52 IST" name="verifyGetWindowhandle" finished-at="2023-09-02T15:54:06 IST" duration-ms="73964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetWindowhandle -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:54:06 IST" name="AfterMethod" finished-at="2023-09-02T15:54:19 IST" duration-ms="13091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:54:19 IST" name="BeforeMethod" finished-at="2023-09-02T15:54:59 IST" duration-ms="39669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyFooter()[pri:4, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:54:59 IST" name="verifyFooter" finished-at="2023-09-02T15:54:59 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFooter -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:54:59 IST" name="AfterMethod" finished-at="2023-09-02T15:55:18 IST" duration-ms="18845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:55:18 IST" name="BeforeMethod" finished-at="2023-09-02T15:55:49 IST" duration-ms="30877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="checkScrolling()[pri:5, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:55:49 IST" name="checkScrolling" finished-at="2023-09-02T15:56:10 IST" duration-ms="21364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkScrolling -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:56:10 IST" name="AfterMethod" finished-at="2023-09-02T15:56:11 IST" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:56:11 IST" name="BeforeMethod" finished-at="2023-09-02T15:56:47 IST" duration-ms="35805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="chcekSearchAndFilter()[pri:6, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:56:47 IST" name="chcekSearchAndFilter" finished-at="2023-09-02T15:56:54 IST" duration-ms="7031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chcekSearchAndFilter -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCase.TC01@36fc695d]" started-at="2023-09-02T15:56:54 IST" name="AfterMethod" finished-at="2023-09-02T15:56:56 IST" duration-ms="1654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- testCase.TC01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
